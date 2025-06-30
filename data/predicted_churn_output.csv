@@ -1,0 +1,6 @@
+gender,SeniorCitizen,Partner,tenure,MonthlyCharges,TotalCharges,InternetService,OnlineSecurity,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,ChargesRatio,tenure_group,Churn_Predicted
+Male,0,Yes,12,70.5,840.0,Fiber optic,No,Yes,One year,Yes,Electronic check,11.914893617021276,0-12,1
+Female,1,No,5,99.9,499.5,DSL,Yes,No,Month-to-month,No,Credit card (automatic),5.0,0-12,1
+Male,0,Yes,24,65.0,1560.0,Fiber optic,No,No,Two year,Yes,Bank transfer (automatic),24.0,13-24,0
+Female,0,No,8,80.0,640.0,No,No,No,Month-to-month,Yes,Electronic check,8.0,0-12,0
+Male,1,Yes,15,55.0,825.0,DSL,Yes,Yes,One year,Yes,Mailed check,15.0,13-24,0
