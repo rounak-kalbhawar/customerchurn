@@ -3,3 +3,6 @@ scikit-learn
 joblib
 fastapi
 uvicorn
+seaborn
+matplotlib
+xgboost
